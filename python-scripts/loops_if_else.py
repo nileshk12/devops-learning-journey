@@ -3,8 +3,8 @@
 
 # for loop is used when you know how many times you want to loop, like a list, string, or range
 
-# for i in range(1,11):
-#     print (i)
+for i in range(1,11):
+    print (i)
 
 ## this will print 1 to 10 , in python if you specify a range it will display the last number as n-1 in your range so in our case 11-1 = 10
 
@@ -12,11 +12,11 @@
 
 ## Count from 1 to 5 Using while Loop
 
-# counter = 1
+counter = 1
 
-# while counter <=5:
-#     print("Count is:",counter)
-#     counter += 1
+while counter <=5:
+    print("Count is:",counter)
+    counter += 1
 
 # counter = 1 → We start counting from 1.
 # while counter <= 5: → Keep looping as long as counter is ≤ 5.
