@@ -1,3 +1,7 @@
 Hello World
 HelloWorld
 Hello
+20
+John
+the sum is 30
+the product is 200
